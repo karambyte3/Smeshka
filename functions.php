@@ -1,6 +1,7 @@
 <?php
 function head($title)
 {
+session_start();
  ?>
 <!DOCTYPE html>
 <html>
